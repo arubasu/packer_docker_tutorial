@@ -1,7 +1,8 @@
 # packer_tutorial_with_docker
 Sample codes of Packer in HCL to work with Docker and File
 
-### Format and validate your Packer template
+### Init, Format and validate your Packer template
+`packer init .`<br>
 `packer fmt .`<br>
 `packer validate .`
 
